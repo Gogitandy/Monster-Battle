@@ -1,2 +1,2 @@
 # Monster-Battle
-Text based master game
+Text based monster game
